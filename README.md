@@ -14,7 +14,6 @@ Meu nome é Raissa, sou uma desenvolvedora apaixonada por tecnologia e inovaçã
 ## O que você vai encontrar aqui
 Neste repositório, compartilho projetos que abrangem:
 - Desenvolvimento de aplicações web
-- Automotivação de tarefas usando Python
 - Soluções e scripts em C, C++ e outras linguagens
 - Dicas e ferramentas para montagem de sistemas
 
